@@ -5,4 +5,5 @@ The goal of YSuite is to provide a way for players to easily use some more advan
 ## YSuite modules
 
 YS.nav
+
 YS.power
