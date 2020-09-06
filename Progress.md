@@ -1,3 +1,8 @@
+## General
+
+- [ ] Finalize GitHub layout
+
+
 ## YS.gen
 
 - [ ] Generator management
