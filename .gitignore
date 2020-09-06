@@ -1,3 +1,7 @@
 # YSuite logos and ad material
+
 visual/
-YS.hack/
+
+# Unpublicized modules
+
+YS.h/
