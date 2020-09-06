@@ -2,6 +2,13 @@
 
 - [ ] Finalize GitHub layout
 
+## Wiki
+
+- [X] Create page
+- [ ] Add "About YSuite"
+- [ ] Add modules
+- [ ] Add links
+
 ## YS.gen
 
 - [ ] Generator management
