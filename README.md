@@ -4,6 +4,8 @@ The goal of YSuite is to provide a way for players to easily use some more advan
 
 ## YSuite modules
 
-YS.nav
-
-YS.power
+| Module | Description |
+| --- | --- |
+|[YS.nav]()|A navigation system, previously E.nav
+|[YS.gen]()|Generator management system
+|[YS.lifetime]()|Modular fuel rod, propellant, coolant and battery lifetime display
