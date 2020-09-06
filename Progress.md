@@ -1,31 +1,31 @@
 ## YS.gen
 
-[ ] Generator management
+- [ ] Generator management
 
 ## YS.hover
 
-[ ] PID (or PD)
-[ ] Variable height
+- [ ] PID (or PD)
+- [ ] Variable height
 
 ## YS.land
 
-[ ] Adaptive end height
-[ ] Landing speed regulation
-[ ] Break when reaching end height
+- [ ] Adaptive end height
+- [ ] Landing speed regulation
+- [ ] Break when reaching end height
 
 ## YS.lifetime
 
-[ ] Battery life calculation
-[ ] Fuelrod life calculation
-[ ] Propellant life calculation
-[ ] Coolant life calculation
-[ ] Modular display
-[ ] Alarm on near empty
+- [ ] Battery life calculation
+- [ ] Fuelrod life calculation
+- [ ] Propellant life calculation
+- [ ] Coolant life calculation
+- [ ] Modular display
+- [ ] Alarm on near empty
 
 ## YS.nav
 
-[X] Position
-[ ] Increase update speed
-[ ] Autopilot
-[X] Velocity
-[ ] Automatic transmitter switching
+- [X] Position
+- [ ] Increase update speed
+- [ ] Autopilot
+- [X] Velocity
+- [ ] Automatic transmitter switching
